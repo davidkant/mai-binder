@@ -3,3 +3,4 @@ librosa
 pretty_midi
 pyfluidsynth
 matplotlib
+-e git://github.com/davidkant/mai#egg=mai
