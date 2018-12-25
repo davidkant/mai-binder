@@ -3,14 +3,5 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - numpy
-  - matplotlib
-  - librosa
-  - keras
-  - tensorflow
-  - rise
   - pip:
-    - essentia
-    - pretty_midi
-    - pyfluidsynth
     - -e git://github.com/davidkant/mai#egg=mai
